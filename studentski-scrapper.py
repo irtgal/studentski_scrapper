@@ -66,8 +66,6 @@ def get_stats(foh=None):
         foh_name = foh
     else:
         jobs_list =  get_all_jobs()
-    if len(jobs_list) == 0:
-        print('NAPAKA: Ni del za: ', foh)
         
     for job in jobs_list:
         neto = job["neto"]
@@ -76,6 +74,11 @@ def get_stats(foh=None):
             neto_list.append(neto_float)
         except ValueError:
             neto_not_specified += 1
+
+    if len(neto_list) == 0:
+        print('NAPAKA: Ni informacij o placah za: ', foh)
+        return ''
+            
     count = len(neto_list)
     average = sum(neto_list)/len(neto_list)
     median = statistics.median(neto_list)
@@ -94,8 +97,9 @@ def generate_stat_file():
     stats = [get_stats()] # prvo naredi statistiko za vse vrste del
     for foh in get_fohs():
         stats.append(get_stats(foh))
-        with open(stats_file, 'w') as file:
-            file.write(json.dumps(stats))
+        with open(stats_file, 'w', encoding="utf-8") as file:
+            for stat in stats:
+                file.write(stat)
     
         
         
