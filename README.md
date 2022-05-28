@@ -1,5 +1,9 @@
 # studentski_scrapper
 Scrapper studentskih del za studentski-servis.com
 
-Poženeš scrapper.py, ta pa ti zgenerira datoteko študentska_dela_{datum}.json, kjer je output scrapperja
-in datoteko statistika_{datum}.json, kjer je statistika plač.
+V datoteko podatki-{datum}.json poscrapa vsa dela iz studentskega servisa.
+
+V datoteko statistika-{datum}.txt zgenerira statistiko plač po vrsti del.
+
+
+Python 3.9.1
