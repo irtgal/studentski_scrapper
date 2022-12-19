@@ -13,13 +13,12 @@ stats_file = 'statistika-' + today + '.txt'
 
 
 def extract_job_info(job_div):
-    foh = job_div.find('h3').getText()
+    foh = job_div.find('h5').getText()
     tip_element = job_div.find('h5')
-    tip = tip_element.getText() if tip_element else None
     atributi = job_div.find_all("ul", {'class': 'job-attributes'})[0]
     lokacija = atributi.find("li").getText().strip()
     neto = atributi.find("li", {'class': 'job-payment'}).find('strong').getText().replace("€/h neto", '').strip()
-    job = {'foh': foh, 'tip': tip, 'lokacija': lokacija, 'neto': neto}
+    job = {'foh': foh, 'lokacija': lokacija, 'neto': neto}
     return job
     
 def scrape_studentski():
