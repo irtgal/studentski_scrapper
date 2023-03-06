@@ -8,8 +8,8 @@ from datetime import date
 jobs = []
 
 today = date.today().strftime("%Y-%m-%d")
-jobs_file = 'podatki-' + today + '.json'
-stats_file = 'statistika-' + today + '.txt'
+jobs_file = 'podatki/podatki-' + today + '.json'
+stats_file = 'statistika/statistika-' + today + '.txt'
 
 
 def extract_job_info(job_div):
