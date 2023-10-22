@@ -1,0 +1,1030 @@
+
+Vrsta dela: VSA
+Stevilo plac: 3124
+Povprecna placa: 7.1977976952624285
+Mediana: 7.0
+Najvisja placa: 33.8
+Placa ni podana: 150
+          
+Vrsta dela: PROJEKTNO DELO
+Stevilo plac: 9
+Povprecna placa: 6.807777777777778
+Mediana: 6.7
+Najvisja placa: 8.45
+Placa ni podana: 6
+          
+Vrsta dela: PREVAJANJE
+Stevilo plac: 9
+Povprecna placa: 10.544444444444444
+Mediana: 7.5
+Najvisja placa: 33.8
+Placa ni podana: 0
+          
+Vrsta dela: VARSTVO
+Stevilo plac: 1
+Povprecna placa: 6.96
+Mediana: 6.96
+Najvisja placa: 6.96
+Placa ni podana: 0
+          
+Vrsta dela: DELO V ORDINACIJI
+Stevilo plac: 4
+Povprecna placa: 7.2225
+Mediana: 7.05
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: PRAVNE STORITVE
+Stevilo plac: 4
+Povprecna placa: 6.775
+Mediana: 6.5
+Najvisja placa: 7.6
+Placa ni podana: 0
+          
+Vrsta dela: VADITELJ/ICA
+Stevilo plac: 19
+Povprecna placa: 10.01157894736842
+Mediana: 10.0
+Najvisja placa: 15.0
+Placa ni podana: 2
+          
+Vrsta dela: PRODAJA
+Stevilo plac: 96
+Povprecna placa: 6.619270833333335
+Mediana: 6.34
+Najvisja placa: 15.0
+Placa ni podana: 2
+          
+Vrsta dela: UREJANJE OKOLICE
+Stevilo plac: 1
+Povprecna placa: 6.0
+Mediana: 6.0
+Najvisja placa: 6.0
+Placa ni podana: 0
+          
+Vrsta dela: NOVINARSKA DELA
+Stevilo plac: 3
+Povprecna placa: 6.82
+Mediana: 7.0
+Najvisja placa: 7.61
+Placa ni podana: 0
+          
+Vrsta dela: RAZVOZ
+Stevilo plac: 61
+Povprecna placa: 6.7857377049180325
+Mediana: 7.0
+Najvisja placa: 10.0
+Placa ni podana: 10
+          
+Vrsta dela: PROMOCIJA
+Stevilo plac: 42
+Povprecna placa: 7.982619047619044
+Mediana: 8.0
+Najvisja placa: 10.14
+Placa ni podana: 0
+          
+Vrsta dela: ANKETIRANJE PO TELEFONU
+Stevilo plac: 4
+Povprecna placa: 5.9624999999999995
+Mediana: 5.98
+Najvisja placa: 6.04
+Placa ni podana: 0
+          
+Vrsta dela: DELO V VELNESU
+Stevilo plac: 3
+Povprecna placa: 6.216666666666666
+Mediana: 6.3
+Najvisja placa: 6.5
+Placa ni podana: 0
+          
+Vrsta dela: DELO V FARMACIJI
+Stevilo plac: 1
+Povprecna placa: 7.0
+Mediana: 7.0
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: ASISTENT/KA
+Stevilo plac: 2
+Povprecna placa: 7.75
+Mediana: 7.75
+Najvisja placa: 8.0
+Placa ni podana: 2
+          
+Vrsta dela: REŠEVALEC/KA IZ VODE
+Stevilo plac: 1
+Povprecna placa: 7.0
+Mediana: 7.0
+Najvisja placa: 7.0
+Placa ni podana: 3
+          
+Vrsta dela: INFORMATIKA
+Stevilo plac: 6
+Povprecna placa: 8.171666666666665
+Mediana: 7.18
+Najvisja placa: 14.37
+Placa ni podana: 2
+          
+Vrsta dela: DIGITALNI MARKETING
+Stevilo plac: 12
+Povprecna placa: 8.245833333333334
+Mediana: 8.0
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V PEKARNI
+Stevilo plac: 4
+Povprecna placa: 6.9475
+Mediana: 6.67
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: SESTAVLJANJE
+Stevilo plac: 3
+Povprecna placa: 6.023333333333333
+Mediana: 5.92
+Najvisja placa: 6.3
+Placa ni podana: 0
+          
+Vrsta dela: POMOČ V TRGOVINI
+Stevilo plac: 66
+Povprecna placa: 6.475606060606061
+Mediana: 6.34
+Najvisja placa: 8.45
+Placa ni podana: 1
+          
+Vrsta dela: TRENER/KA
+Stevilo plac: 16
+Povprecna placa: 11.929999999999998
+Mediana: 10.07
+Najvisja placa: 24.0
+Placa ni podana: 0
+          
+Vrsta dela: VNOS PODATKOV V RAČUNALNIK
+Stevilo plac: 5
+Povprecna placa: 6.659999999999999
+Mediana: 6.5
+Najvisja placa: 7.6
+Placa ni podana: 0
+          
+Vrsta dela: TEŽJA FIZIČNA DELA
+Stevilo plac: 3
+Povprecna placa: 8.296666666666667
+Mediana: 8.03
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: FOTOKOPIRANJE
+Stevilo plac: 4
+Povprecna placa: 6.137499999999999
+Mediana: 5.85
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: SELITVE
+Stevilo plac: 4
+Povprecna placa: 7.875
+Mediana: 8.0
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: SNEMANJE
+Stevilo plac: 1
+Povprecna placa: 10.14
+Mediana: 10.14
+Najvisja placa: 10.14
+Placa ni podana: 0
+          
+Vrsta dela: INŠTRUKCIJE
+Stevilo plac: 10
+Povprecna placa: 7.837999999999999
+Mediana: 7.61
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V AVTOPRALNICI
+Stevilo plac: 15
+Povprecna placa: 6.826
+Mediana: 7.0
+Najvisja placa: 8.0
+Placa ni podana: 2
+          
+Vrsta dela: DELO V LOGISTIKI
+Stevilo plac: 2
+Povprecna placa: 6.305
+Mediana: 6.305
+Najvisja placa: 6.76
+Placa ni podana: 0
+          
+Vrsta dela: MARKETING
+Stevilo plac: 7
+Povprecna placa: 7.224285714285714
+Mediana: 7.18
+Najvisja placa: 8.0
+Placa ni podana: 2
+          
+Vrsta dela: UČITELJ/ICA PLAVANJA
+Stevilo plac: 4
+Povprecna placa: 11.9175
+Mediana: 11.835
+Najvisja placa: 14.0
+Placa ni podana: 0
+          
+Vrsta dela: KURIR/KA
+Stevilo plac: 6
+Povprecna placa: 7.126666666666666
+Mediana: 7.13
+Najvisja placa: 8.0
+Placa ni podana: 0
+          
+Vrsta dela: ETIKETIRANJE
+Stevilo plac: 2
+Povprecna placa: 6.59
+Mediana: 6.59
+Najvisja placa: 6.68
+Placa ni podana: 0
+          
+Vrsta dela: POMOČ V STREŽBI
+Stevilo plac: 178
+Povprecna placa: 7.0248876404494345
+Mediana: 7.0
+Najvisja placa: 9.0
+Placa ni podana: 5
+          
+Vrsta dela: STROKOVNO DELO
+Stevilo plac: 25
+Povprecna placa: 6.736799999999999
+Mediana: 6.76
+Najvisja placa: 7.69
+Placa ni podana: 2
+          
+Vrsta dela: POMOČNIK VZGOJITELJA/VZGOJITELJICE
+Stevilo plac: 15
+Povprecna placa: 6.088666666666666
+Mediana: 5.85
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: ČIŠČENJE
+Stevilo plac: 46
+Povprecna placa: 7.114782608695651
+Mediana: 6.93
+Najvisja placa: 15.0
+Placa ni podana: 2
+          
+Vrsta dela: KONTROLA KAKOVOSTI
+Stevilo plac: 7
+Povprecna placa: 6.644285714285714
+Mediana: 6.69
+Najvisja placa: 7.6
+Placa ni podana: 0
+          
+Vrsta dela: ADMINISTRATIVNA DELA
+Stevilo plac: 123
+Povprecna placa: 6.668699186991872
+Mediana: 6.68
+Najvisja placa: 10.0
+Placa ni podana: 9
+          
+Vrsta dela: TELEFONSKI MARKETING
+Stevilo plac: 4
+Povprecna placa: 7.1875
+Mediana: 7.45
+Najvisja placa: 8.0
+Placa ni podana: 1
+          
+Vrsta dela: SVETOVALEC/KA
+Stevilo plac: 28
+Povprecna placa: 12.353571428571433
+Mediana: 12.68
+Najvisja placa: 15.0
+Placa ni podana: 1
+          
+Vrsta dela: TRŽENJE
+Stevilo plac: 11
+Povprecna placa: 8.695454545454545
+Mediana: 8.0
+Najvisja placa: 15.0
+Placa ni podana: 0
+          
+Vrsta dela: PROGRAMIRANJE
+Stevilo plac: 21
+Povprecna placa: 9.332857142857142
+Mediana: 9.0
+Najvisja placa: 18.0
+Placa ni podana: 11
+          
+Vrsta dela: HOSTES/A
+Stevilo plac: 17
+Povprecna placa: 8.392941176470586
+Mediana: 8.5
+Najvisja placa: 15.0
+Placa ni podana: 1
+          
+Vrsta dela: ZAHTEVNA ADMINISTRATIVNA DELA
+Stevilo plac: 13
+Povprecna placa: 6.80846153846154
+Mediana: 6.76
+Najvisja placa: 8.0
+Placa ni podana: 1
+          
+Vrsta dela: SORTIRANJE
+Stevilo plac: 2
+Povprecna placa: 8.11
+Mediana: 8.11
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: VALEJ/VALEJKA
+Stevilo plac: 2
+Povprecna placa: 7.38
+Mediana: 7.38
+Najvisja placa: 8.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V KUHINJI
+Stevilo plac: 58
+Povprecna placa: 7.534137931034483
+Mediana: 7.4
+Najvisja placa: 10.14
+Placa ni podana: 1
+          
+Vrsta dela: MASER/KA
+Stevilo plac: 8
+Povprecna placa: 8.23125
+Mediana: 8.5
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: ANKETIRANJE
+Stevilo plac: 4
+Povprecna placa: 10.0
+Mediana: 8.0
+Najvisja placa: 16.0
+Placa ni podana: 0
+          
+Vrsta dela: POBIRANJE VSTOPNINE
+Stevilo plac: 1
+Povprecna placa: 10.0
+Mediana: 10.0
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: ARHEOLOŠKA IZKOPAVANJA
+Stevilo plac: 1
+Povprecna placa: 7.18
+Mediana: 7.18
+Najvisja placa: 7.18
+Placa ni podana: 0
+          
+Vrsta dela: POMOČ PRI OSKRBI STANOVALCEV
+Stevilo plac: 5
+Povprecna placa: 6.936
+Mediana: 7.0
+Najvisja placa: 8.0
+Placa ni podana: 0
+          
+Vrsta dela: FIGURANT
+Stevilo plac: 7
+Povprecna placa: 7.074285714285714
+Mediana: 7.0
+Najvisja placa: 8.0
+Placa ni podana: 0
+          
+Vrsta dela: LAŽJA FIZIČNA DELA
+Stevilo plac: 18
+Povprecna placa: 7.056111111111111
+Mediana: 7.13
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: BLAGAJNIK
+Stevilo plac: 66
+Povprecna placa: 6.703636363636363
+Mediana: 6.76
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: PREDAVANJE
+Stevilo plac: 1
+Povprecna placa: 10.0
+Mediana: 10.0
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: ZLAGANJE
+Stevilo plac: 4
+Povprecna placa: 6.715
+Mediana: 6.88
+Najvisja placa: 7.18
+Placa ni podana: 0
+          
+Vrsta dela: DELO NA TERENU
+Stevilo plac: 46
+Povprecna placa: 7.214130434782608
+Mediana: 7.0
+Najvisja placa: 9.0
+Placa ni podana: 4
+          
+Vrsta dela: PORTIR/KA
+Stevilo plac: 4
+Povprecna placa: 6.5875
+Mediana: 6.5
+Najvisja placa: 7.5
+Placa ni podana: 0
+          
+Vrsta dela: KOZMETIČNE STORITVE
+Stevilo plac: 21
+Povprecna placa: 7.235238095238096
+Mediana: 7.0
+Najvisja placa: 10.0
+Placa ni podana: 2
+          
+Vrsta dela: DELO V RENT A CAR AGENCIJI
+Stevilo plac: 4
+Povprecna placa: 6.815
+Mediana: 6.779999999999999
+Najvisja placa: 7.5
+Placa ni podana: 0
+          
+Vrsta dela: POUČEVANJE
+Stevilo plac: 46
+Povprecna placa: 10.681086956521742
+Mediana: 10.14
+Najvisja placa: 15.0
+Placa ni podana: 12
+          
+Vrsta dela: DELO NA BENCINSKEM SERVISU
+Stevilo plac: 49
+Povprecna placa: 7.0165306122449
+Mediana: 7.0
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: ANIMATOR/KA
+Stevilo plac: 24
+Povprecna placa: 7.193333333333334
+Mediana: 7.0
+Najvisja placa: 12.67
+Placa ni podana: 1
+          
+Vrsta dela: STROJNIŠKA DELA
+Stevilo plac: 8
+Povprecna placa: 7.02625
+Mediana: 7.045
+Najvisja placa: 7.6
+Placa ni podana: 0
+          
+Vrsta dela: PLAKATIRANJE
+Stevilo plac: 2
+Povprecna placa: 6.0
+Mediana: 6.0
+Najvisja placa: 6.0
+Placa ni podana: 0
+          
+Vrsta dela: SLIKOPLESKARSKA DELA
+Stevilo plac: 1
+Povprecna placa: 8.07
+Mediana: 8.07
+Najvisja placa: 8.07
+Placa ni podana: 0
+          
+Vrsta dela: MIZARSKA DELA
+Stevilo plac: 3
+Povprecna placa: 6.3933333333333335
+Mediana: 6.0
+Najvisja placa: 7.18
+Placa ni podana: 0
+          
+Vrsta dela: MODEL 
+Stevilo plac: 2
+Povprecna placa: 7.0
+Mediana: 7.0
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: OBLIKOVANJE
+Stevilo plac: 2
+Povprecna placa: 9.225
+Mediana: 9.225
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: DEKLARIRANJE
+Stevilo plac: 15
+Povprecna placa: 6.132666666666665
+Mediana: 5.92
+Najvisja placa: 7.0
+Placa ni podana: 1
+          
+Vrsta dela: DELO S STRANKAMI
+Stevilo plac: 33
+Povprecna placa: 6.906666666666665
+Mediana: 6.76
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: TEHNIČNA POMOČ
+Stevilo plac: 11
+Povprecna placa: 6.903636363636363
+Mediana: 6.5
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: HELPDESK
+Stevilo plac: 1
+Povprecna placa: 6.0
+Mediana: 6.0
+Najvisja placa: 6.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO NA RECEPCIJI
+Stevilo plac: 59
+Povprecna placa: 6.634406779661018
+Mediana: 6.5
+Najvisja placa: 9.0
+Placa ni podana: 2
+          
+Vrsta dela: DELO NA STOJNICI
+Stevilo plac: 6
+Povprecna placa: 7.333333333333333
+Mediana: 7.0
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: GRAFIČNO OBLIKOVANJE
+Stevilo plac: 9
+Povprecna placa: 8.286666666666667
+Mediana: 8.03
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: INFORMATOR/KA
+Stevilo plac: 1
+Povprecna placa: 6.5
+Mediana: 6.5
+Najvisja placa: 6.5
+Placa ni podana: 0
+          
+Vrsta dela: DELO V DELAVNICI
+Stevilo plac: 17
+Povprecna placa: 6.8858823529411755
+Mediana: 7.0
+Najvisja placa: 8.0
+Placa ni podana: 0
+          
+Vrsta dela: POMOČ PRI PRODAJI
+Stevilo plac: 154
+Povprecna placa: 6.3337012987013
+Mediana: 6.08
+Najvisja placa: 8.45
+Placa ni podana: 2
+          
+Vrsta dela: GRADBENA DELA
+Stevilo plac: 16
+Povprecna placa: 7.305625
+Mediana: 7.5
+Najvisja placa: 10.14
+Placa ni podana: 1
+          
+Vrsta dela: KOMERCIALNA DELA
+Stevilo plac: 7
+Povprecna placa: 8.56
+Mediana: 8.0
+Najvisja placa: 13.52
+Placa ni podana: 1
+          
+Vrsta dela: STREŽBA
+Stevilo plac: 601
+Povprecna placa: 7.138918469217979
+Mediana: 7.0
+Najvisja placa: 15.0
+Placa ni podana: 15
+          
+Vrsta dela: PAKIRANJE
+Stevilo plac: 19
+Povprecna placa: 6.8910526315789475
+Mediana: 7.0
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: IZDELAVA IN UREJANJE SPLETNE STRANI
+Stevilo plac: 2
+Povprecna placa: 6.5
+Mediana: 6.5
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO NA RAČUNALNIKU
+Stevilo plac: 5
+Povprecna placa: 9.154
+Mediana: 6.5
+Najvisja placa: 20.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V TISKARNI
+Stevilo plac: 4
+Povprecna placa: 6.8149999999999995
+Mediana: 6.88
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: SERVISIRANJE RAČUNALNIŠKE OPREME
+Stevilo plac: 2
+Povprecna placa: 6.67
+Mediana: 6.67
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V PROIZVODNJI
+Stevilo plac: 89
+Povprecna placa: 6.473146067415733
+Mediana: 6.5
+Najvisja placa: 8.45
+Placa ni podana: 2
+          
+Vrsta dela: TAJNIŠKA DELA
+Stevilo plac: 4
+Povprecna placa: 10.17
+Mediana: 7.09
+Najvisja placa: 20.0
+Placa ni podana: 0
+          
+Vrsta dela: ZDRAVSTVENA NEGA
+Stevilo plac: 39
+Povprecna placa: 7.020256410256411
+Mediana: 7.0
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: PARKIRANJE VOZIL 
+Stevilo plac: 2
+Povprecna placa: 6.3100000000000005
+Mediana: 6.3100000000000005
+Najvisja placa: 6.42
+Placa ni podana: 0
+          
+Vrsta dela: OBDELAVA IN ODPREMA SPLETNIH NAROČIL
+Stevilo plac: 4
+Povprecna placa: 6.959999999999999
+Mediana: 6.88
+Najvisja placa: 7.58
+Placa ni podana: 0
+          
+Vrsta dela: DELO V SKLADIŠČU
+Stevilo plac: 62
+Povprecna placa: 6.667741935483872
+Mediana: 6.675
+Najvisja placa: 8.87
+Placa ni podana: 0
+          
+Vrsta dela: MERITVE
+Stevilo plac: 2
+Povprecna placa: 7.6
+Mediana: 7.6
+Najvisja placa: 8.0
+Placa ni podana: 0
+          
+Vrsta dela: MONTAŽA
+Stevilo plac: 31
+Povprecna placa: 7.465483870967741
+Mediana: 7.0
+Najvisja placa: 10.14
+Placa ni podana: 0
+          
+Vrsta dela: SOBAR/ICA
+Stevilo plac: 15
+Povprecna placa: 7.250666666666667
+Mediana: 7.0
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: MEDICINSKA SESTRA
+Stevilo plac: 1
+Povprecna placa: 8.45
+Mediana: 8.45
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: ELEKTROTEHNIČNA DELA
+Stevilo plac: 32
+Povprecna placa: 7.6343749999999995
+Mediana: 7.6
+Najvisja placa: 10.0
+Placa ni podana: 4
+          
+Vrsta dela: MENTOR/ICA
+Stevilo plac: 1
+Povprecna placa: 9.0
+Mediana: 9.0
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V LOTERIJI
+Stevilo plac: 3
+Povprecna placa: 6.333333333333333
+Mediana: 6.0
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: RAČUNOVODSKA DELA
+Stevilo plac: 18
+Povprecna placa: 6.688333333333333
+Mediana: 6.5
+Najvisja placa: 8.45
+Placa ni podana: 1
+          
+Vrsta dela: VZDRŽEVANJE
+Stevilo plac: 9
+Povprecna placa: 7.237777777777778
+Mediana: 7.44
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: RAČUNALNIŠKE STORITVE
+Stevilo plac: 4
+Povprecna placa: 7.3825
+Mediana: 6.8
+Najvisja placa: 10.01
+Placa ni podana: 4
+          
+Vrsta dela: FIZIOTERAPIJA
+Stevilo plac: 2
+Povprecna placa: 9.55
+Mediana: 9.55
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: POMOČ NA PODROČJU MARKETINGA
+Stevilo plac: 2
+Povprecna placa: 6.63
+Mediana: 6.63
+Najvisja placa: 6.76
+Placa ni podana: 0
+          
+Vrsta dela: NEGOVANJE
+Stevilo plac: 6
+Povprecna placa: 7.438333333333333
+Mediana: 7.0649999999999995
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: UREJANJE DRUŽ. OMREŽIJ (FB,IN,TW,TIK TOK)
+Stevilo plac: 5
+Povprecna placa: 8.852
+Mediana: 7.5
+Najvisja placa: 15.0
+Placa ni podana: 0
+          
+Vrsta dela: UREDNIK SPLETNIH VSEBIN
+Stevilo plac: 2
+Povprecna placa: 6.795
+Mediana: 6.795
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V TURIZMU
+Stevilo plac: 13
+Povprecna placa: 7.003846153846154
+Mediana: 7.0
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: VODENJE
+Stevilo plac: 1
+Povprecna placa: 9.0
+Mediana: 9.0
+Najvisja placa: 9.0
+Placa ni podana: 1
+          
+Vrsta dela: DELO Z OTROKI
+Stevilo plac: 12
+Povprecna placa: 7.526666666666666
+Mediana: 7.4399999999999995
+Najvisja placa: 10.0
+Placa ni podana: 2
+          
+Vrsta dela: ORGANIZACIJSKA DELA
+Stevilo plac: 4
+Povprecna placa: 7.5875
+Mediana: 8.0
+Najvisja placa: 8.45
+Placa ni podana: 0
+          
+Vrsta dela: LEPLJENJE
+Stevilo plac: 1
+Povprecna placa: 6.34
+Mediana: 6.34
+Najvisja placa: 6.34
+Placa ni podana: 0
+          
+Vrsta dela: PROJEKTIRANJE
+Stevilo plac: 23
+Povprecna placa: 7.2299999999999995
+Mediana: 7.18
+Najvisja placa: 8.0
+Placa ni podana: 4
+          
+Vrsta dela: POSPEŠEVANJE PRODAJE
+Stevilo plac: 6
+Povprecna placa: 7.461666666666666
+Mediana: 7.09
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: KNJIGOVODSKA DELA
+Stevilo plac: 2
+Povprecna placa: 6.925
+Mediana: 6.925
+Najvisja placa: 8.0
+Placa ni podana: 0
+          
+Vrsta dela: DEGUSTACIJE
+Stevilo plac: 5
+Povprecna placa: 9.6
+Mediana: 10.0
+Najvisja placa: 10.0
+Placa ni podana: 0
+          
+Vrsta dela: MASKOTA
+Stevilo plac: 1
+Povprecna placa: 7.0
+Mediana: 7.0
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V ZDRAVSTVU
+Stevilo plac: 15
+Povprecna placa: 7.112
+Mediana: 7.0
+Najvisja placa: 10.14
+Placa ni podana: 0
+          
+Vrsta dela: INŠTALACIJE
+Stevilo plac: 1
+Povprecna placa: 7.0
+Mediana: 7.0
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: NAKLADANJE/ RAZKLADANJE
+Stevilo plac: 9
+Povprecna placa: 8.096666666666666
+Mediana: 8.0
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: ARHIVSKO DELO
+Stevilo plac: 1
+Povprecna placa: 5.85
+Mediana: 5.85
+Najvisja placa: 5.85
+Placa ni podana: 0
+          
+Vrsta dela: DELJENJE LETAKOV
+Stevilo plac: 1
+Povprecna placa: 7.5
+Mediana: 7.5
+Najvisja placa: 7.5
+Placa ni podana: 0
+          
+Vrsta dela: POLNJENJE POLIC
+Stevilo plac: 15
+Povprecna placa: 6.54
+Mediana: 6.34
+Najvisja placa: 7.61
+Placa ni podana: 0
+          
+Vrsta dela: ZDRAVSTVENI TEHNIK
+Stevilo plac: 4
+Povprecna placa: 6.654999999999999
+Mediana: 6.76
+Najvisja placa: 6.76
+Placa ni podana: 0
+          
+Vrsta dela: FIZIČNA DELA
+Stevilo plac: 35
+Povprecna placa: 7.745714285714285
+Mediana: 8.0
+Najvisja placa: 10.0
+Placa ni podana: 3
+          
+Vrsta dela: INFORMACIJSKO KOMUNIKACIJSKA DELA
+Stevilo plac: 1
+Povprecna placa: 7.5
+Mediana: 7.5
+Najvisja placa: 7.5
+Placa ni podana: 0
+          
+Vrsta dela: VULKANIZERSKA DELA
+Stevilo plac: 4
+Povprecna placa: 7.2325
+Mediana: 7.25
+Najvisja placa: 8.0
+Placa ni podana: 1
+          
+Vrsta dela: AKVIZITERSKA DELA
+Stevilo plac: 1
+Povprecna placa: 5.85
+Mediana: 5.85
+Najvisja placa: 5.85
+Placa ni podana: 0
+          
+Vrsta dela: POMOČ V SKLADIŠČU IN PROD. CENTRIH
+Stevilo plac: 1
+Povprecna placa: 6.5
+Mediana: 6.5
+Najvisja placa: 6.5
+Placa ni podana: 0
+          
+Vrsta dela: POMOČ V KUHINJI
+Stevilo plac: 85
+Povprecna placa: 6.999764705882352
+Mediana: 7.0
+Najvisja placa: 10.0
+Placa ni podana: 1
+          
+Vrsta dela: DELO V IGRALNICI
+Stevilo plac: 4
+Povprecna placa: 7.01
+Mediana: 6.965
+Najvisja placa: 7.18
+Placa ni podana: 0
+          
+Vrsta dela: POMOČ UPORABNIKOM
+Stevilo plac: 20
+Povprecna placa: 6.9595
+Mediana: 7.0
+Najvisja placa: 8.2
+Placa ni podana: 0
+          
+Vrsta dela: OBDELAVA PODATKOV
+Stevilo plac: 2
+Povprecna placa: 7.88
+Mediana: 7.88
+Najvisja placa: 9.0
+Placa ni podana: 0
+          
+Vrsta dela: VRTNARSKA DELA
+Stevilo plac: 6
+Povprecna placa: 7.583333333333333
+Mediana: 7.5
+Najvisja placa: 8.5
+Placa ni podana: 0
+          
+Vrsta dela: ARHEOLOŠKA DELA
+Stevilo plac: 1
+Povprecna placa: 6.04
+Mediana: 6.04
+Najvisja placa: 6.04
+Placa ni podana: 0
+          
+Vrsta dela: KLICNI CENTER
+Stevilo plac: 16
+Povprecna placa: 6.8637500000000005
+Mediana: 6.88
+Najvisja placa: 8.0
+Placa ni podana: 2
+          
+Vrsta dela: SPREMLJEVALEC/ SPREMLJEVALKA
+Stevilo plac: 15
+Povprecna placa: 6.125333333333335
+Mediana: 5.98
+Najvisja placa: 7.0
+Placa ni podana: 0
+          
+Vrsta dela: DELO V LABORATORIJU
+Stevilo plac: 11
+Povprecna placa: 6.170909090909092
+Mediana: 5.92
+Najvisja placa: 7.01
+Placa ni podana: 0
+          
+Vrsta dela: STREŽBA HRANE IN PIJAČE
+Stevilo plac: 162
+Povprecna placa: 7.2285802469135785
+Mediana: 7.0
+Najvisja placa: 10.0
+Placa ni podana: 7
+          
+Vrsta dela: INVENTURA
+Stevilo plac: 7
+Povprecna placa: 6.0928571428571425
+Mediana: 5.92
+Najvisja placa: 6.76
+Placa ni podana: 0
+          
+Vrsta dela: ROČNA DELA
+Stevilo plac: 2
+Povprecna placa: 6.699999999999999
+Mediana: 6.699999999999999
+Najvisja placa: 6.76
+Placa ni podana: 0
+          
+Vrsta dela: PISMONOŠA
+Stevilo plac: 35
+Povprecna placa: 6.759999999999996
+Mediana: 6.76
+Najvisja placa: 6.76
+Placa ni podana: 0
+          
