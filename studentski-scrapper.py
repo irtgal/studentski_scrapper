@@ -75,7 +75,7 @@ def get_stats(foh=None):
             neto_not_specified += 1
 
     if len(neto_list) == 0:
-        print('NAPAKA: Ni informacij o placah za: ', foh)
+        print('Opozorilo: Ni informacij o placah za: ', foh)
         return ''
             
     count = len(neto_list)
